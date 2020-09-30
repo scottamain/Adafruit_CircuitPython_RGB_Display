@@ -7,6 +7,9 @@
 .. automodule:: adafruit_rgb_display.hx8353
   :members:
 
+.. automodule:: adafruit_rgb_display.hx8357
+  :members:
+
 .. automodule:: adafruit_rgb_display.ili9341
    :members:
 
@@ -20,4 +23,7 @@
   :members:
 
 .. automodule:: adafruit_rgb_display.st7735
+  :members:
+
+.. automodule:: adafruit_rgb_display.st7789
   :members:
